@@ -17,9 +17,7 @@ Images → Feature Extraction → Matching → Sparse Reconstruction → Gaussia
 
 - **COLMAP** – Structure-from-Motion (SfM) for camera pose estimation  
 - **Brush Gaussian Splatting** – Gaussian Splat generation  
-- **Supersplat** – Visualization and editing  
-- **Lichtfeld Studio** – Rendering  
-- **Blender (3DGS Addon)** – Optional visualization  
+- **Supersplat** – Visualization and editing   
 
 ---
 
