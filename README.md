@@ -1,2 +1,26 @@
-# 3d-gaussian-splatting
-End-to-end pipeline for 3D scene reconstruction using COLMAP and 3D Gaussian Splatting. Images are processed into a sparse 3D representation and converted into a Gaussian Splat model, which is then visualized and edited using Supersplat and other tools.
+#  End-to-End 3D Gaussian Splatting Pipeline
+
+##  Overview
+This project demonstrates an end-to-end pipeline for **3D scene reconstruction** using **COLMAP** and **3D Gaussian Splatting (3DGS)**.
+
+Given a set of multi-view images, the pipeline reconstructs a 3D scene and converts it into a **Gaussian Splat representation** for real-time rendering and visualization.
+
+---
+
+##  Pipeline
+
+Images → Feature Extraction → Matching → Sparse Reconstruction → Gaussian Splatting → Visualization
+
+---
+
+##  Tools Used
+
+- **COLMAP** – Structure-from-Motion (SfM) for camera pose estimation  
+- **Brush Gaussian Splatting** – Gaussian Splat generation  
+- **Supersplat** – Visualization and editing  
+- **Lichtfeld Studio** – Rendering  
+- **Blender (3DGS Addon)** – Optional visualization  
+
+---
+
+
